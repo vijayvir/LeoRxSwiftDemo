@@ -1,0 +1,6 @@
+framework module Pods_LeoRxSwift {
+  umbrella header "Pods-LeoRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
